@@ -25,9 +25,9 @@ Phase 6: Maintenance and Updates Post-launch, the focus shifts to ongoing mainte
 
 ## Proposed Solution / Architecture Diagram
 
-![alt text](image.png)
+![alt text](<WhatsApp Image 2024-12-03 at 01.26.50_c1080f52.jpg>)
 ## Use Cases
-![alt text](image-1.png)
+![alt text](<WhatsApp Image 2024-12-03 at 01.25.35_17ce16d8.jpg>)
 
 ## Technology Stack
 React.js
